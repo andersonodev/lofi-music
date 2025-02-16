@@ -1,4 +1,4 @@
-# lofi-sounds
+# lofi-music
 
 <img src=".github/preview.jpg" />
 
@@ -10,14 +10,14 @@
 
 ## Assets and sounds
 
-**[Check this repository](https://github.com/birobirobiro/assets-icons-sounds)**
+**[Check this repository](https://github.com/andersonodev/assets-icons-sounds)**
 
 ## Running locally
 
 1. Clone this repo:
 
 ```sh
-$ git clone https://github.com/birobirobiro/lofi-sounds.git
+$ git clone https://github.com/andersonodev/lofi-sounds.git
 ```
 
 2. Then go to the project's folder:
