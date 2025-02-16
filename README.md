@@ -30,11 +30,11 @@ cd lofi-sounds
 3. Install all dependencies:
 
 ```sh
-yarn install
+yarn install ou npm install
 ```
 
 4. Run locally:
 
 ```sh
-yarn dev
+yarn dev ou npm run dev
 ```
